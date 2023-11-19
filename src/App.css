@@ -1,0 +1,15 @@
+.App {text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20 px; 
+  color: rgb(10, 10, 10);
+}
+
+.upper-left {
+  position: absolute;
+    top: 10px; 
+    left: 10px;
+  }
+
